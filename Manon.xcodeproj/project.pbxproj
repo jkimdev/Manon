@@ -16,6 +16,7 @@
 		BFA67B532AD7CF9E003E3AE4 /* ManonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFA67B522AD7CF9E003E3AE4 /* ManonUITests.swift */; };
 		BFA67B552AD7CF9E003E3AE4 /* ManonUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFA67B542AD7CF9E003E3AE4 /* ManonUITestsLaunchTests.swift */; };
 		BFA67B622AD7D09E003E3AE4 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFA67B612AD7D09E003E3AE4 /* MainViewController.swift */; };
+		BFA67B642AD7D23D003E3AE4 /* MoneyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFA67B632AD7D23D003E3AE4 /* MoneyViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BFA67B522AD7CF9E003E3AE4 /* ManonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManonUITests.swift; sourceTree = "<group>"; };
 		BFA67B542AD7CF9E003E3AE4 /* ManonUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManonUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		BFA67B612AD7D09E003E3AE4 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		BFA67B632AD7D23D003E3AE4 /* MoneyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoneyViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				BFA67B2E2AD7CF9D003E3AE4 /* AppDelegate.swift */,
 				BFA67B612AD7D09E003E3AE4 /* MainViewController.swift */,
+				BFA67B632AD7D23D003E3AE4 /* MoneyViewController.swift */,
 				BFA67B322AD7CF9D003E3AE4 /* ViewController.swift */,
 				BFA67B3A2AD7CF9E003E3AE4 /* Assets.xcassets */,
 				BFA67B3C2AD7CF9E003E3AE4 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 				BFA67B332AD7CF9D003E3AE4 /* ViewController.swift in Sources */,
 				BFA67B2F2AD7CF9D003E3AE4 /* AppDelegate.swift in Sources */,
 				BFA67B392AD7CF9D003E3AE4 /* Manon.xcdatamodeld in Sources */,
+				BFA67B642AD7D23D003E3AE4 /* MoneyViewController.swift in Sources */,
 				BFA67B622AD7D09E003E3AE4 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
